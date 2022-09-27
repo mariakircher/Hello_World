@@ -1,18 +1,18 @@
-# Hello_World Overview
+# Hello World
 
 ## *Table of Contents*
-- Project Title
 - Description
-- Program Intructions
-- Additional Files & Documentation
-- Versioning
-
-## *Project Title*
+- Implementation
+- Intructions
+- Additional Documentation
+- What's Next?
 
 ## *Description*
 
-## *Program Intructions*
+## *Implementation*
+
+## *Intructions*
 
 ## *Additional Files & Documentation*
 
-## *Versioning*
+## *What's Next?*
